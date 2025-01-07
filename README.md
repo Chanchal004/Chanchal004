@@ -21,14 +21,6 @@
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanchal004&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanchal004&layout=compact&theme=radical" height="150" alt="Top languages" />
-</div>
-
----
-
 ### Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/chanchal-lakshmi-s-r-b32182251/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/chanchal-lakshmi-s-r-b32182251/)
 - 📧 [Email](mailto:chanchallakshmi90@gmail.com)
